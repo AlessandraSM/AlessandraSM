@@ -15,6 +15,13 @@
 <br>
 
 <div>
+    <a href="https://github.com/AlessandraSM">
+   <img src="https://github-readme-stats.vercel.app/api?username=AlessandraSM&show_icons=true&theme=radical"/>
+</div>
+  <br>
+  
+ 
+<div>
   <p>Vou deixar abaixo algumas das minhas Habilidades Soft Skills:<p/>
   <p>Sou <strong>Comunicativa</strong>: Tenho experiência no ramo comercial e atendimento ao público à mais de 15 anos.</p>
   <p>Sou <strong>Resiliente</strong>: Estudo para área de Tecnologia ja há dois anos estou decidida e determinada em me tornar uma Desenvolvedora.</p>
