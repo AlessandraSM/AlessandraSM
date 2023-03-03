@@ -1,24 +1,48 @@
 
 <header>
   <img src="https://user-images.githubusercontent.com/96982276/222595287-b172fe68-67cd-4bd5-a3db-f4f3af41d62a.png">
-  <p text-align="center">Olá👋! Eu sou a Alessandra Sandeski Marmiroli, seja muito bem vindo ao meu repositório no GitHub!</p>
+ 
 </header>
+
+<div align="center">
+   <h4 text-align="center">Olá👋! Eu sou a Alessandra Sandeski Marmiroli, seja muito bem vindo ao meu repositório no GitHub!</h4>
+</div>
+
   
 <div align="center" >
-  <img width="150px" src="https://user-images.githubusercontent.com/96982276/222596867-aa7c903a-6572-4f9e-8d78-8bbf2c488e8d.jpg"/>
+  <img width="180px" src="https://user-images.githubusercontent.com/96982276/222596867-aa7c903a-6572-4f9e-8d78-8bbf2c488e8d.jpg"/>
 </div>
+<br>
 
 <div>
-  <p>Vou deixar abaixo algumas das minhas Habilidades Hard Skills e Soft Skills:<p/>
-  <p>Sou Comunicativa: Tenho experiência no ramo comercial e atendimento ao público à mais de 15 anos.</p>
-  <p>Sou Resiliente: Estudo para área de Tecnologia ja há dois anos estou decidida e determinada em me tornar uma Desenvolvedora.</p>
-  <p>Sou Criativa: Já atuei desenhando/atendendo vestidos de festas e atualmente faço pinturas em cerâmicas.</p> 
-  <p>Me Adapto com facilidade às mudanças: trabalhei em vários ramos diferentes de comércios.</p>
+  <p>Vou deixar abaixo algumas das minhas Habilidades Soft Skills:<p/>
+  <p>Sou <strong>Comunicativa</strong>: Tenho experiência no ramo comercial e atendimento ao público à mais de 15 anos.</p>
+  <p>Sou <strong>Resiliente</strong>: Estudo para área de Tecnologia ja há dois anos estou decidida e determinada em me tornar uma Desenvolvedora.</p>
+  <p>Sou <strong>Criativa</strong>: Já atuei desenhando/atendendo vestidos de festas e atualmente faço pinturas em cerâmicas.</p> 
+  <p>Me <strong>Adapto com facilidade</strong> às mudanças: trabalhei em vários ramos diferentes de comércios.</p>
 </div>
-<div>
-  <p>Fique a vontade para entrar em contato comigo, deixarei aqui algumas das minhas redes sociais:</p>
-</div>
+<br>
 
+<p>E aqui estão algumas das minhas Hard Skills:</p>
+
+<div style="display: inline_block">
+   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ 
+   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<div>
+<br>
+  
+<div>
+  <p>Fique a vontade para entrar em contato comigo, deixarei aqui algumas das minhas redes sociais para facilitar nosso contato:</p>
+  <a href="https://www.linkedin.com/in/alessandra-sandeski-marmiroli-2976271b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/alessandrasandeski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alessandramarmiroli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+ </div>
 <Footer>
   <img src="https://user-images.githubusercontent.com/96982276/222597938-58860d68-9a7e-4e46-873b-999291f98098.png"/>
 </Footer>
