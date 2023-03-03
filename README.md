@@ -14,10 +14,13 @@
 </div>
 <br>
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
     <a href="https://github.com/AlessandraSM">
-   <img src="https://github-readme-stats.vercel.app/api?username=AlessandraSM&show_icons=true&theme=radical"/>
+   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlessandraSM&show_icons=true&theme=radical"/>
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraSM&layout=compact&hide_border=true&title_color=FF69B4&text_color=FF69B4&bg_color=0d1117" />
 </div>
+  
+  
   <br>
   
  <p>Vou deixar abaixo algumas das minhas Habilidades Soft Skills:<p/>
