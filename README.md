@@ -26,12 +26,17 @@
  <p>Vou deixar abaixo algumas das minhas Habilidades Soft Skills:<p/>
  
 <div>
-  <p>Sou <strong>Comunicativa</strong>: Tenho experiência no ramo comercial e atendimento ao público à mais de 15 anos.</p>
-  <p>Sou <strong>Resiliente</strong>: Estudo para área de Tecnologia ja há dois anos estou decidida e determinada trabalhar com Tecnologia.</p>
-  <p>Atualmente estou cursando Análise e Desenvolvimento de Sistema</p>
-  <p>Sou <strong>Criativa</strong>: Já atuei desenhando vestidos de festas e atualmente faço pinturas em cerâmicas.</p> 
-  <p>Me <strong>Adapto com facilidade</strong> às mudanças: trabalhei em vários ramos diferentes de comércios.</p>
+  <p><strong>Comunicativo:</strong> Possuo mais de 15 anos de experiência no ramo comercial e atendimento ao público, refletindo minha capacidade de me expressar de forma clara e eficaz.</p>
+  
+  <p><strong>Resiliente:</strong> Há dois anos, venho dedicando meu tempo ao estudo na área de Tecnologia, demonstrando minha determinação e vontade de crescer profissionalmente nesse campo desafiador.</p>
+  
+  <p><strong>Cursando Análise e Desenvolvimento de Sistemas:</strong> Atualmente curso o 2º ano, estou aprimorando meus conhecimentos nesta área por meio do curso de Análise e Desenvolvimento de Sistemas, contribuindo para minha constante evolução profissional.</p>
+  
+  <p><strong>Criativa:</strong> Minha criatividade se manifesta não apenas na área tecnológica, mas também artisticamente. Já atuei no design de vestidos de festa e atualmente me expresso através de pinturas em cerâmica.</p>
+  
+  <p><strong>Facilidade de Adaptação às Mudanças:</strong> Ao longo da minha carreira, trabalhei em diversos ramos do comércio, evidenciando minha habilidade em me adaptar facilmente a novos ambientes e desafios.</p>
 </div>
+
 <br>
 
 <h2 align="center">E aqui estão algumas das minhas Hard Skills:</h2>
