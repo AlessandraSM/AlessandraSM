@@ -27,7 +27,8 @@
  
 <div>
   <p>Sou <strong>Comunicativa</strong>: Tenho experiência no ramo comercial e atendimento ao público à mais de 15 anos.</p>
-  <p>Sou <strong>Resiliente</strong>: Estudo para área de Tecnologia ja há dois anos estou decidida e determinada em me tornar uma Desenvolvedora.</p>
+  <p>Sou <strong>Resiliente</strong>: Estudo para área de Tecnologia ja há dois anos estou decidida e determinada trabalhar com Tecnologia.</p>
+  <p>Atualmente estou cursando Análise e Desenvolvimento de Sistema</p>
   <p>Sou <strong>Criativa</strong>: Já atuei desenhando vestidos de festas e atualmente faço pinturas em cerâmicas.</p> 
   <p>Me <strong>Adapto com facilidade</strong> às mudanças: trabalhei em vários ramos diferentes de comércios.</p>
 </div>
